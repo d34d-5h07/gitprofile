@@ -113,7 +113,7 @@ const CONFIG = {
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
+    'Docker'
   ],
   experiences: [
     {
