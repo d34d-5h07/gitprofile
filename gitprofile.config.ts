@@ -101,7 +101,7 @@ const CONFIG = {
   skills: [
     'Python',
     'Flutter',
-    'C'
+    'C',
     'Html',
     'Css',
     'Arduino',
